@@ -1,4 +1,4 @@
-Copyright (c) 2018, Fabio Furini, Ivana Ljubic and Jean-Francois.
+Copyright (c) 2018, Fabio Furini, Ivana Ljubic and Jean-Francois Cordeau.
 All rights reserved.
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:
@@ -11,7 +11,7 @@ documentation and/or other materials provided with the distribution.
 3. All advertising materials mentioning features or use of this software
 must reference the following publications:
 > Benders Decomposition for Very Large Scale Partial Set Covering and Maximal Covering Problems  
-Fabio Furini, Ivana Ljubic and Jean-Francois.
+Fabio Furini, Ivana Ljubic and Jean-Francois Cordeau.
 4. The name of the contributors may not be used to endorse or promote products
 derived from this software without specific prior written permission.
 THIS SOFTWARE IS PROVIDED BY THE CONTRIBUTORS ''AS IS'' AND ANY
