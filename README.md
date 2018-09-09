@@ -1,9 +1,8 @@
 # LocationCovering
 This site contains accompanying material to the paper:
 
-Benders Decomposition for Very Large Scale Partial Set Covering and Maximal Covering Problems
-
-by Fabio Furini, Ivana Ljubic and Jean-Francois.
+> Benders Decomposition for Very Large Scale Partial Set Covering and Maximal Covering Problems  
+Fabio Furini, Ivana Ljubic and Jean-Francois.
 
 Solver for Maximal Covering Location and  partial set covering location problems
 
