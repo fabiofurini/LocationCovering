@@ -13,7 +13,7 @@ The solver can be run as, e.g.,
 
 The parameters are: i) the instance name ii) 1 for the compact model 2 for the Branch-and-Benders-cut iii) the radius of coverage iiii) for the MCLP the Covering Demand and for the PSCLP the Budget
 
-As far as the instance format is concerned: the first line reports the number of potential facility locations and the number of customers. Then for each potential facility location the file reports the cohordinates (x,y) and the the fixed cost. Finally, for each customer the file reports the cohordinates (x,y) and the  demand.    
+As far as the instance format is concerned: the first line reports the number of potential facility locations and the number of customers. Then for each potential facility location the file reports the cohordinates (x,y) and the  fixed cost. Finally, for each customer the file reports the cohordinates (x,y) and the demand.    
 
 The software is for academic purposes only, see also the file license.md  provided.
 
