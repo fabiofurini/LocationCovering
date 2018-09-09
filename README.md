@@ -5,7 +5,7 @@ This site contains accompanying material to the paper:
 by Fabio Furini, Ivana Ljubic and Jean-Francois Cordeau.
 
 
-The Branch-and-Benders-cut algorithm for Maximal Covering Location and  partial set covering location problems (described in the publication mentioned above) can be downloaded by clicking here (see the files above). To use the solver, a license file is provided. To compile and run the code  CPLEX libraries are required.
+The Branch-and-Benders-cut algorithm for Maximal Covering Location and  Partial Set Covering Location Problems (described in the publication mentioned above) can be downloaded by clicking here (see the files above). To use the solver, a license file is provided. To compile and run the code  CPLEX libraries are required.
 
 The solver can be run as, e.g.,
 
