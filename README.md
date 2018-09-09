@@ -13,7 +13,7 @@ The source code of the exact algorithm is provided and it needs CPLEX libraries 
 
 The solver can be run as, e.g.,
 
-./bilevel -mpsfile myInstanceFolder/myInstance.mps -setting 4
+./CFLU GRID_MCLP_n100_m10000_d1_100_f1_1_s1.dat 2 600  6.25 10
 
 For the instance format, see below (or the file readme.md in the provided zipfile). The software is for academic purposes only, see also the file license.md in the provided zipfile.
 
