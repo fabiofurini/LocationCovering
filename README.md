@@ -2,7 +2,7 @@
 This site contains accompanying material to the paper:
 
 > Benders Decomposition for Very Large Scale Partial Set Covering and Maximal Covering Location Problems  
-by Jean-Francois Cordeau, Fabio Furini, Ivana Ljubic and . European Journal of Operational Research, https://doi.org/10.1016/j.ejor.2018.12.021.
+by Jean-Francois Cordeau, Fabio Furini and Ivana Ljubic. European Journal of Operational Research, https://doi.org/10.1016/j.ejor.2018.12.021.
 
 https://www.sciencedirect.com/science/article/pii/S0377221718310737?via%3Dihub
 
