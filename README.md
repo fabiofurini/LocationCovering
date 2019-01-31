@@ -2,8 +2,9 @@
 This site contains accompanying material to the paper:
 
 > Benders Decomposition for Very Large Scale Partial Set Covering and Maximal Covering Location Problems  
-by Fabio Furini, Ivana Ljubic and Jean-Francois Cordeau. European Journal of Operational Research (to appear).
+by Jean-Francois Cordeau, Fabio Furini, Ivana Ljubic and . European Journal of Operational Research, https://doi.org/10.1016/j.ejor.2018.12.021.
 
+https://www.sciencedirect.com/science/article/pii/S0377221718310737?via%3Dihub
 
 The Branch-and-Benders-cut algorithm for Maximal Covering Location and  Partial Set Covering Location Problems (described in the publication mentioned above) can be downloaded by clicking here (see the files above). To use the solver, a license file is provided. To compile and run the code  CPLEX libraries are required.
 
