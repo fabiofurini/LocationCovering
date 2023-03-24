@@ -16,5 +16,5 @@ The parameters are: i) the instance name ii) 1 for the compact model 2 for the B
 
 As far as the instance format is concerned: the first line reports the number of potential facility locations and the number of customers. Then for each potential facility location the file reports the cohordinates (x,y) and the  fixed cost. Finally, for each customer the file reports the cohordinates (x,y) and the demand.    
 
-The software is for academic purposes only, see also the file license.md  provided. To compile the code it is necessary to update the path to the CPLEX directories 
+The software is for academic purposes only, see also the file license.md  provided. To compile the code it is necessary to provide the path to the CPLEX directories 
 
