@@ -318,8 +318,8 @@ double distance(double x1,double y1,double x2, double y2)
 {
 
 
-	int distancex = (x2 - x1)*(x2 - x1);
-	int distancey = (y2 - y1)*(y2 - y1);
+	double distancex = (x2 - x1)*(x2 - x1);
+	double distancey = (y2 - y1)*(y2 - y1);
 
 	return   sqrt(distancex + distancey);
 }
